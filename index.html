@@ -228,6 +228,12 @@
             locationColumn:     "latitude",
             map_center:         [49.232784, 28.483622],
             locationScope:      "ukraine"
+            query: {
+                select: locationColumn,
+                from: tableId,
+                where: condition
+            },
+            styleId: 2 
           });
 
           var autocomplete = new google.maps.places.Autocomplete(document.getElementById('search_address'));
