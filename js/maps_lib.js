@@ -18,7 +18,7 @@
         // name of the location column in your Fusion Table.
         // NOTE: if your location column name has spaces in it, surround it with single quotes
         // example: locationColumn:     "'my location'",
-        this.locationColumn = options.locationColumn || "широта";
+        this.locationColumn = options.locationColumn || "geometry";
         
         // appends to all address searches if not present
         this.locationScope = options.locationScope || "";
