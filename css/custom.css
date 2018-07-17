@@ -25,7 +25,7 @@ a:hover { color: #4B58A6; }
 .filter-green { background-color: #00E13C; }
 .filter-jellyfish { background-color: #46C7C7; }
 .filter-blue { background-color: #5781FC; }
-.filter-plum { background-color: #B93B8F; }
+.filter-neon { background-color: #F535AA; }
 .filter-white { background-color: #FFFFFF; }
 
 canvas {-ms-touch-action: double-tap-zoom;}
