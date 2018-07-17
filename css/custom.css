@@ -23,9 +23,9 @@ a:hover { color: #4B58A6; }
 .filter-orange { background-color: #FFA500; }
 .filter-yellow { background-color: #FBF358; }
 .filter-green { background-color: #00E13C; }
-.filter-light blue { background-color: #46C7C7; }
+.filter-jellyfish { background-color: #46C7C7; }
 .filter-blue { background-color: #5781FC; }
-.filter-purple { background-color: #B93B8F; }
+.filter-plum { background-color: #B93B8F; }
 .filter-white { background-color: #FFFFFF; }
 
 canvas {-ms-touch-action: double-tap-zoom;}
